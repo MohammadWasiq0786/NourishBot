@@ -68,7 +68,7 @@ The project is built using the CrewAI framework, which organizes agents and task
 
 ---
 
-![img1](./media/1.png)
+![img10](./media/10.png)
 
 ---
 
