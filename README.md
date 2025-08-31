@@ -176,9 +176,9 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ---
 
----text
+```text
 title: AI_NutriCoach
 app_file: app.py
 sdk: gradio
 sdk_version: 5.12.0
----
+```
